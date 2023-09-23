@@ -13,4 +13,4 @@ import java.util.Scanner;
             System.out.println("Данное число меньше 7");
         }
     }
-   }
+}
